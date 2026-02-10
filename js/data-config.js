@@ -24,7 +24,7 @@ const DATA_CONFIG = {
      * Data branch name
      * Default: 'data'
      */
-    dataBranch: 'origin/data',
+    dataBranch: 'data',
 
     /**
      * Get the base URL for raw GitHub content from data branch
